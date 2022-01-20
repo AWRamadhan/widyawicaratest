@@ -1,3 +1,5 @@
+DEMO LINK - https://widyawicaratest.awramadhan.tech/
+
 Pastikan POSTGRESS SQL sudah terinstal pada PC serta aktif, kemudian ubah settingan file settings.py bagian username dan password pada folder movie_api
 Setelah itu lakukan instalasi python module django dan pyscopg2
 
